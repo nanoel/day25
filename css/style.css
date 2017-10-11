@@ -92,7 +92,7 @@ body {
 	content: no-close-quote;
 }
 
-.ba-container a {
+.ba-button {
 	display: block;
 	width: 264px;
 	height: 68px;
@@ -103,6 +103,6 @@ body {
 	border: 2px solid #eaa258;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	padding-top: 15px;
-	margin-top: 40px;
+	padding-top: 25px;
+	margin-top: 70px;
 }
